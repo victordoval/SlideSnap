@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -12,6 +12,13 @@
 		CF28160B1B9FAACC00426259 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF28160A1B9FAACC00426259 /* Images.xcassets */; };
 		CF28160E1B9FAACC00426259 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CF28160C1B9FAACC00426259 /* LaunchScreen.xib */; };
 		CF28161A1B9FAACC00426259 /* SlideSnapTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2816191B9FAACC00426259 /* SlideSnapTests.swift */; };
+		CF5F6E8F1BA0145600E555CA /* ic_switch_photo_facing_holo_light.png in Resources */ = {isa = PBXBuildFile; fileRef = CF5F6E8E1BA0145600E555CA /* ic_switch_photo_facing_holo_light.png */; };
+		CF5F6E911BA0750D00E555CA /* slidesnap@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF5F6E901BA0750D00E555CA /* slidesnap@2x.png */; };
+		CF5F6E951BA0778F00E555CA /* spotlight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF5F6E941BA0778F00E555CA /* spotlight@2x.png */; };
+		CF5F6E971BA0779A00E555CA /* spotlight@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF5F6E961BA0779A00E555CA /* spotlight@3x.png */; };
+		CF5F6E991BA0780700E555CA /* settings@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF5F6E981BA0780700E555CA /* settings@3x.png */; };
+		CF5F6E9B1BA0780E00E555CA /* settings@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF5F6E9A1BA0780E00E555CA /* settings@2x.png */; };
+		CF5F6E9D1BA078B500E555CA /* slidesnap@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF5F6E9C1BA078B500E555CA /* slidesnap@3x.png */; };
 		CFFD043B1B9FB5040033059B /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = CFFD043A1B9FB5040033059B /* Entitlements.plist */; };
 		CFFD04411B9FEE610033059B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFFD04431B9FEE610033059B /* Main.storyboard */; };
 /* End PBXBuildFile section */
@@ -36,6 +43,13 @@
 		CF2816131B9FAACC00426259 /* SlideSnapTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SlideSnapTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF2816181B9FAACC00426259 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF2816191B9FAACC00426259 /* SlideSnapTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideSnapTests.swift; sourceTree = "<group>"; };
+		CF5F6E8E1BA0145600E555CA /* ic_switch_photo_facing_holo_light.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_switch_photo_facing_holo_light.png; path = ../../../../Downloads/ic_switch_photo_facing_holo_light.png; sourceTree = "<group>"; };
+		CF5F6E901BA0750D00E555CA /* slidesnap@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "slidesnap@2x.png"; path = "../../../../Downloads/slidesnap@2x.png"; sourceTree = "<group>"; };
+		CF5F6E941BA0778F00E555CA /* spotlight@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "spotlight@2x.png"; path = "../../../../Downloads/spotlight@2x.png"; sourceTree = "<group>"; };
+		CF5F6E961BA0779A00E555CA /* spotlight@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "spotlight@3x.png"; path = "../../../../Downloads/spotlight@3x.png"; sourceTree = "<group>"; };
+		CF5F6E981BA0780700E555CA /* settings@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "settings@3x.png"; path = "../../../../Downloads/settings@3x.png"; sourceTree = "<group>"; };
+		CF5F6E9A1BA0780E00E555CA /* settings@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "settings@2x.png"; path = "../../../../Downloads/settings@2x.png"; sourceTree = "<group>"; };
+		CF5F6E9C1BA078B500E555CA /* slidesnap@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "slidesnap@3x.png"; path = "../../../../Downloads/slidesnap@3x.png"; sourceTree = "<group>"; };
 		CFFD043A1B9FB5040033059B /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
 		CFFD04421B9FEE610033059B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -93,6 +107,13 @@
 		CF2816011B9FAACC00426259 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CF5F6E8E1BA0145600E555CA /* ic_switch_photo_facing_holo_light.png */,
+				CF5F6E901BA0750D00E555CA /* slidesnap@2x.png */,
+				CF5F6E9C1BA078B500E555CA /* slidesnap@3x.png */,
+				CF5F6E941BA0778F00E555CA /* spotlight@2x.png */,
+				CF5F6E961BA0779A00E555CA /* spotlight@3x.png */,
+				CF5F6E9A1BA0780E00E555CA /* settings@2x.png */,
+				CF5F6E981BA0780700E555CA /* settings@3x.png */,
 				CF2816021B9FAACC00426259 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -172,7 +193,7 @@
 				};
 			};
 			buildConfigurationList = CF2815F91B9FAACC00426259 /* Build configuration list for PBXProject "SlideSnap" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -195,10 +216,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF5F6E9B1BA0780E00E555CA /* settings@2x.png in Resources */,
 				CFFD043B1B9FB5040033059B /* Entitlements.plist in Resources */,
 				CF28160E1B9FAACC00426259 /* LaunchScreen.xib in Resources */,
 				CF28160B1B9FAACC00426259 /* Images.xcassets in Resources */,
+				CF5F6E951BA0778F00E555CA /* spotlight@2x.png in Resources */,
 				CFFD04411B9FEE610033059B /* Main.storyboard in Resources */,
+				CF5F6E971BA0779A00E555CA /* spotlight@3x.png in Resources */,
+				CF5F6E8F1BA0145600E555CA /* ic_switch_photo_facing_holo_light.png in Resources */,
+				CF5F6E9D1BA078B500E555CA /* slidesnap@3x.png in Resources */,
+				CF5F6E991BA0780700E555CA /* settings@3x.png in Resources */,
+				CF5F6E911BA0750D00E555CA /* slidesnap@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -356,6 +384,7 @@
 				INFOPLIST_FILE = SlideSnap/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -368,6 +397,7 @@
 				INFOPLIST_FILE = SlideSnap/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_PRODUCT = NO;
 			};
 			name = Release;
